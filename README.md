@@ -1,2 +1,6 @@
-# xox-oyunu
+# XOX Oyunu
 Basit XOX Oyunu
+Teknolojiler:
+ - HTML
+ - CSS
+ - JAVASCRIPT
